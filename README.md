@@ -2,7 +2,6 @@
 
 [![ROS2](https://img.shields.io/badge/ROS2-Jazzy-blue.svg)](https://docs.ros.org/en/humble/index.html)
 [![License: Apache 2.0](https://img.shields.io/github/license/saltstack/salt)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Anvently/benewake_ros2_driver/build.yaml?branch=main)](https://github.com/Anvently/benewake_ros2_driver/actions)
 
 > C++ package to integrate Benewake lidar sensors into ROS2
 
@@ -162,4 +161,4 @@ See the License for the specific language governing permissions and limitations 
 
 ## 👤 Author
 
-Created by [@Anvently](https://github.com/Anvently)
+Created by [@Anvently](https://github.com/Anvently) on repo : https://github.com/Anvently/benewake_lidar_ros2_driver/
